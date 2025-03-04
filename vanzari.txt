@@ -1,0 +1,18 @@
+Tastatura vândută:
+Marca: LG, Culoare: VERDE, Preț: 200.0 RON, Disponibilitate: vândută
+Cumpărător: Cristi
+Email: f
+Metoda de plată: cash
+-----------------------------
+Tastatura vândută:
+Marca: lg, Culoare: verde, Preț: 200.0 RON, Disponibilitate: vândută
+Cumpărător: se
+Email: s
+Metoda de plată: cash
+-----------------------------
+Tastatura vândută:
+Marca: LG, Culoare: verde, Preț: 222.0 RON, Disponibilitate: vândută
+Cumpărător: sebi
+Email: sebi@
+Metoda de plată: cash
+-----------------------------

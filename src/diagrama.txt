@@ -1,0 +1,37 @@
+
+|        Start            |
+
+          ↓
+
+|   Deschide Aplicația    |
+
+          ↓
+
+| Magazin deschis?        |
+
+     ↓        ↓
+   Da          Nu
+    ↓          ↓
+
+|   Afișează meniul       |       | Afișează mesaj:         |
+|   principal             |       | "Magazinul este închis" |
+
+          ↓                                ↓
+
+| Utilizator alege opțiune|       |    Ieșire Aplicație    |
+
+          ↓
+|   Execută opțiunea      |
+|  (Adăugare, Ștergere,   |
+|  Vandut, Afișare Stoc)  |
+
+          ↓
+
+| Magazin închis sau      |
+| utilizator închide  |
+
+          ↓
+         Da
+          ↓
+
+|        Stop             |
